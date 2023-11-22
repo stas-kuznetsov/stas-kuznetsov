@@ -26,20 +26,20 @@ Clouds:
 GCP, Azure
 
 Teaching disciplines:
-▪	PC Hardware
-▪	Administrating Windows XP
-▪	Configuring Windows 7
-▪	Configuring Windows 10
-▪	Switching in local networks
-▪	Routing in IP-networks
-▪	Application protocols and services of TCP/IP stack
-▪	Security of systems and networks
-▪	Windows Server 2012 administration
-▪	Windows Server 2016 administration
-▪	System Linux administration
-▪	Network Linux administration
-▪	Virtualization and cloud technologies
-▪	DevOps toolkit
++	PC Hardware
++	Administrating Windows XP
++	Configuring Windows 7
++	Configuring Windows 10
++	Switching in local networks
++	Routing in IP-networks
++	Application protocols and services of TCP/IP stack
++	Security of systems and networks
++	Windows Server 2012 administration
++	Windows Server 2016 administration
++	System Linux administration
++	Network Linux administration
++	Virtualization and cloud technologies
++	DevOps toolkit
 
 
 English - (pre)intermediate (A2+...B1)
