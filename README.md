@@ -9,11 +9,22 @@ YouTube channel: https://youtube.com/stas-kuznetsov
 17+ years in Teaching, I have status "Cisco academy instructor"
 
 Skillset:
-Windows Server 2000/2003/2008R2/2012R2/2016/2019: Active Directory, DNS, DHCP, PowerShell, Hyper-V, WSUS, IIS, FTP, VPN, Routing, DFS
-Linux Ubuntu: Installation, Bash, Daemons, File System, users and groups, owners and permissions, Routing, SSH-server, DNS-server, DHCP-server, Apache, Nginx, FTP-server, Samba
-Cisco IOS and protocols: VLAN, VTP, DTP, STP, RSTP, PVST, EtherChannel, PAgp, LACP, HSRP, VRRP, RIP, OSPF, EIGRP, PPP, GRE, SPAN, SNMP
-Protocols: IPv4, IPv6, TCP, UDP, DNS, DHCPv4, DHCPv6, Telnet, SSH, HTTP, FTP, POP, SMTP
-Clouds: GCP, Azure
+
+Windows Server 2000/2003/2008R2/2012R2/2016/2019:
+Active Directory, DNS, DHCP, PowerShell, Hyper-V, WSUS, IIS, FTP, VPN, Routing, DFS
+
+Linux Ubuntu:
+Installation, Bash, Daemons, File System, users and groups, owners and permissions, Routing, SSH-server, DNS-server, DHCP-server, Apache, Nginx, FTP-server, Samba
+
+Cisco IOS and protocols:
+VLAN, VTP, DTP, STP, RSTP, PVST, EtherChannel, PAgp, LACP, HSRP, VRRP, RIP, OSPF, EIGRP, PPP, GRE, SPAN, SNMP
+
+Protocols:
+IPv4, IPv6, TCP, UDP, DNS, DHCPv4, DHCPv6, Telnet, SSH, HTTP, FTP, POP, SMTP
+
+Clouds:
+GCP, Azure
+
 Teaching disciplines:
 ▪	PC Hardware
 ▪	Administrating Windows XP
